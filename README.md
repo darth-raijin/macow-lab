@@ -1,7 +1,12 @@
 ### Hi there 👋
 
-<!--
-**macow-lab/macow-lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Among all GitHub profiles you landed here, impressive!
+
+[![macow-lab GitHub stats](https://github-readme-stats.vercel.app/api?username=macow-lab)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=macow-lab&repo=spotiscout)](https://github.com/macow-lab/spotiscout)
+
+
 
 Here are some ideas to get you started:
 
@@ -13,4 +18,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
